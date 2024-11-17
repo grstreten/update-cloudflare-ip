@@ -1,3 +1,6 @@
+# WARNING: This tool was whammed together using ChatGPT.
+# It works for me, but might not work for you.
+
 import requests
 import os
 import time
